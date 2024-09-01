@@ -1,6 +1,7 @@
 .env
 plan
-
+venv
+super AI.code-workspace
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
